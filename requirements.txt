@@ -3,9 +3,7 @@ pandas
 scipy
 scikit-learn
 matplotlib
-seaborn
 Pillow
 torch
 torchvision
 openpyxl
-
